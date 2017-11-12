@@ -1,0 +1,44 @@
+1510468737602	geckodriver	INFO	geckodriver 0.18.0
+1510468737621	geckodriver	INFO	Listening on 127.0.0.1:58550
+1510468739627	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1510468740878	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510468741439	Marionette	INFO	Enabled via --marionette
+1510468744216	Marionette	INFO	Listening on port 58557
+1510468744968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510468745028	Marionette	DEBUG	Register listener.js for window 6442450945
+1510468745072	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510468764365	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1510468766157	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510468766162	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510468766163	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510468766210	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=netTimeout&u=http%3A//tlias-stu.boxuegu.com/%23/login&c=UTF-8&f=regular&d=tlias-stu.boxuegu.com%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%93%8D%E5%BA%94%E6%97%B6%E9%97%B4%E8%BF%87%E9%95%BF%E3%80%82"
+[Parent 7768] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6244] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7768] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510468769141	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 7852] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510468769151	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 6156] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510468774117	geckodriver	INFO	geckodriver 0.18.0
+1510468774128	geckodriver	INFO	Listening on 127.0.0.1:58700
+1510468776146	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1510468776546	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510468777005	Marionette	INFO	Enabled via --marionette
+[Child 6984] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6984] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510468778881	Marionette	INFO	Listening on port 58707
+1510468779313	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510468779409	Marionette	DEBUG	Register listener.js for window 4294967297
+1510468779478	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510468779731	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510468779731	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510468780821	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://tlias-stu.boxuegu.com/#/login"
+1510468781274	Marionette	DEBUG	Received DOM event "pageshow" for "http://tlias-stu.boxuegu.com/#/login"
+1510468785823	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510468788546	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510468790565	Marionette	DEBUG	Register listener.js for window 4294967301
+1510468795988	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
